@@ -74,11 +74,11 @@ body {
     color: #000;
 }
 
-img {
+#picture{
     height: 300px
 }
 
-#picture {
+#homepic {
 	height: 585px;
 	position: middle;
 	margin-top: 7px;
