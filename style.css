@@ -87,7 +87,8 @@ body {
 }
 
 #hpic{
-	height: 820px;
+	height: 100%;
+	width: 100%;
 	align: center;
 	margin-top: 7px;
 }
