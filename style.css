@@ -87,12 +87,7 @@ body {
 }
 
 #hpic{
-	height: 800px;
+	height: 820px;
 	align: center;
-}
-
-#homepic {
-	height: 600px;
-	position: middle;
 	margin-top: 7px;
 }
