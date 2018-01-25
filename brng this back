@@ -1,0 +1,5 @@
+a<p id="pdf">
+				<img src="images/Canva.jpg" id="picture">
+				<br>
+			<a href="images/About me.pdf" download> My Canva Document</a>
+			</p>
